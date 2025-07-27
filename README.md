@@ -1,7 +1,3 @@
-Here’s a polished and professional `README.md` file for your Iotamine Python SDK:
-
----
-
 ````markdown
 # 🧠 Iotamine Python SDK
 
@@ -155,9 +151,4 @@ This SDK is open-sourced under the [MIT License](LICENSE).
 * [📖 API Docs](https://iotamine.com/docs)
 * [🎮 Control Panel](https://iotamine.com/control)
 
-```
-
----
-
-Let me know if you'd like this `README.md` as a downloadable file or also want an auto-generated `docs/` folder for documentation sites like [ReadTheDocs](https://readthedocs.org/).
 ```
