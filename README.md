@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Iotamine Python SDK
 
 **Iotamine** is a powerful and easy-to-use cloud platform designed for developers and startups. This Python SDK allows you to interact with the Iotamine Cloud API to programmatically deploy, manage, and monitor Virtual Private Servers (VPS) and core resources.
@@ -148,7 +147,5 @@ This SDK is open-sourced under the [MIT License](LICENSE).
 ## 🌐 Links
 
 * [🌍 Iotamine Website](https://iotamine.com)
-* [📖 API Docs](https://iotamine.com/docs)
 * [🎮 Control Panel](https://iotamine.com/control)
 
-```
