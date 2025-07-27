@@ -131,8 +131,8 @@ Main entrypoint to interact with Iotamine API.
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/iotamine-python-sdk.git
-cd iotamine-python-sdk
+git clone https://github.com/piyushladhar/iotamine.git
+cd iotamine
 pip install -e .
 ```
 
